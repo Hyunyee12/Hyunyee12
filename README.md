@@ -1,15 +1,19 @@
 <div align= "left">
     <div style="text-align: left;"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=fff2b3&height=120&text=Welcome%20🐥&animation=&fontColor=1c2931&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=fff2b3&height=120&text=Welcome%20🐥&animation=&fontColor=1c2931&fontSize=30" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 Who am I? </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Student of ChungAng University, Art&Technology department freshmen </div> Interested in programming which needed for the video production process </div> 
-    </div> The goal is to master the language for video production and editing.
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Student of ChungAng University, Art&Technology department freshmen </div> 
+    </div> ✨ My goal is to master the language for video production and editing.
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ❓ Interest </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Making video and movie using CG </div> Programming needed for the video production process </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Project </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Department Conference(24.11.16-17) </div> ➡️ With the theme of inflection point, we displayed videos made with Unreal Engine
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Department Conference(24.11.16-17) </div> ➡️ On the theme of the inflection point, we displayed a video made with Unreal Engine
           </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
