@@ -13,14 +13,11 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Project </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> CAU Art&Tech 2nd Conference (24.11.16-17) </div> ➡️ On the theme of the inflection point, we displayed a video made with Unreal Engine
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> CAU Art&Tech 2nd Conference 24.11.16-17 </div> ➡️ On the theme of the inflection point, we displayed a video made with Unreal Engine, We prepared for a year
           </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          </div>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Beginner of C++ </div> Intermediator of Python </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> C++ (Beginner) </div> Python (Intermediator) </div>
     </div>
     </div>
     <div style="text-align: left;">
