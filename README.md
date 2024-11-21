@@ -13,7 +13,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Project </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> CAU Art&Tech 2nd Conference(24.11.16-17) </div> ➡️ On the theme of the inflection point, we displayed a video made with Unreal Engine
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> CAU Art&Tech 2nd Conference (24.11.16-17) </div> ➡️ On the theme of the inflection point, we displayed a video made with Unreal Engine
           </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
