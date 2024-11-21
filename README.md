@@ -31,4 +31,7 @@
     </div>
     <div style="text-align: left;">  </div> 
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Statistics of My Github </h2>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunyee12)](https://github.com/anuraghazra/github-readme-stats)
     
