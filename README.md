@@ -1,4 +1,5 @@
-    <div align= "left">
+<div align= "left">
+    <div style="text-align: left;"> 
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=fff2b3&height=120&text=Welcome%20🐥&animation=&fontColor=1c2931&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
