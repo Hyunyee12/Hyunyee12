@@ -7,7 +7,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Student of ChungAng University, Art&Technology department freshmen. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Project </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Project </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Department Conference(24.11.16-17) </div> 
           </div>
     <div style="text-align: left;">
