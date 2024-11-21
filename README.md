@@ -2,8 +2,7 @@
 - Student of Chung-Ang University, Art&Technology department
 
 ## 🐣Tech Stack
-- Python
-- c++
+- Python, c++
 
 ## 🐣Project
 - Conference
